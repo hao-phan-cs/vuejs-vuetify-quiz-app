@@ -1,4 +1,4 @@
-# quiz-app
+# vuejs-vuetify-quiz-app
 
 ## Project setup
 ```
@@ -27,4 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vuejs-vuetify-quiz-app
