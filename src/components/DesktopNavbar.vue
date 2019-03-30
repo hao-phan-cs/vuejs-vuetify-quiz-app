@@ -69,7 +69,7 @@ export default {
 		}
 	},
 	watch:{
-    $route (to, from){
+    $route (){ 
 			location.reload()
     }
 	}, 

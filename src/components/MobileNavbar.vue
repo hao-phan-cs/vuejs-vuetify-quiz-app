@@ -100,8 +100,8 @@ export default {
 		}
 	},
 	watch:{
-    $route (to, from){
-			location.reload()
+    $route (){ // jshint ignore:line
+			location.reload()	
     }
 	}, 
 	methods: {
