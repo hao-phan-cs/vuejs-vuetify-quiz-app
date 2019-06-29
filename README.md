@@ -1,5 +1,5 @@
-inspect chế độ di động vui lòng reload trang
 # vuejs-vuetify-quiz-app
+just a frontend demo stuff
 
 ## Project setup
 ```
