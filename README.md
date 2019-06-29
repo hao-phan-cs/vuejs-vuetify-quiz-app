@@ -1,7 +1,10 @@
 # vuejs-vuetify-quiz-app
 just a frontend demo stuff
 
-## Project setup
+### Demo Video: 
+https://youtu.be/Z0k_5NQUdic
+
+### Project setup
 ```
 npm install
 ```
